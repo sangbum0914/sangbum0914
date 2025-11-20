@@ -4,8 +4,7 @@
 
 ---
 
-I am a Visual-inertial SLAM engineer for autonomous robots 🤖. I received my master's degree from Navigation and Electronics System Lab (NESL) at Seoul National University. I specialize in designing probabilistic estimators using C++, Python, and ROS 👨🏻‍💻. While I have a few accepted papers, I take pride in developing my own code, which is available in my repositories. In addition to my SLAM works, I am capable of performing structural and aerodynamic analysis using CATIA and AutoCAD ⚙️.
-
+I am a Robotics engineer for autonomous robots 🤖. I received my master's degree from Navigation and Electronics System Lab (NESL) at Seoul National University. I specialize in designing probabilistic estimators using C++, Python, and ROS 👨🏻‍💻.
 I am always open to collaboration and happy to discuss any of my previous work. Please feel free to reach out with any questions 👏👏.
 
 
@@ -40,5 +39,6 @@ I am always open to collaboration and happy to discuss any of my previous work. 
 ---
 
 Check my [Homepage](https://sangbum99.github.io/) for more professional information!🎉
+
 
 
