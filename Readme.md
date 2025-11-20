@@ -4,7 +4,7 @@
 
 ---
 
-I am a Robotics engineer for autonomous robots 🤖. I received my master's degree from Navigation and Electronics System Lab (NESL) at Seoul National University. I specialize in designing probabilistic estimators using C++, Python, and ROS 👨🏻‍💻.
+Hi, I'm a Robotics engineer for autonomous robots 🤖. I received my master's degree from Navigation and Electronics System Lab (NESL) at Seoul National University. I specialize in designing probabilistic estimators using C++, Python, and ROS 👨🏻‍💻.
 I am always open to collaboration and happy to discuss any of my previous work. Please feel free to reach out with any questions 👏👏.
 
 
@@ -39,6 +39,7 @@ I am always open to collaboration and happy to discuss any of my previous work. 
 ---
 
 Check my [Homepage](https://sangbum99.github.io/) for more professional information!🎉
+
 
 
 
